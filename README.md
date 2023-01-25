@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h4 align="left"> 
- Olá, me chamo Pedro Augusto e sou desenvolvedor atuando como back-end, aqui você encontrara alguns projetos e uma breve apresentação das minhas habilidades como profissinal.
+ Olá, me chamo Pedro Augusto e sou desenvolvedor atuando como back-end, aqui você encontrara alguns projetos e uma breve apresentação das minhas habilidades como profissional.
 </h4>
 
 <p align="left">
